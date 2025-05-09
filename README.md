@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a Test Engineer at Tektronix, a computer scien
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🔗 ADC Audio HW/FW Project](https://github.com/amcooper181/ADC-Audio) | Using custom hardware, convert analog audio to a digital audio stream. | `ESP32`, `Arduino`, `KiCAD` |
-| [🔗 NES Emulator](https://github.com/yourusername/project2) | My NES Emulator senior project | `GitHub Actions`, `C++`, `CMake`, `SDL`, `Docker`, `Linux` |
+| [🔗 NES Emulator](https://github.com/coopeaus/NES-Emulator) | My NES Emulator senior project | `GitHub Actions`, `C++`, `CMake`, `SDL`, `Docker`, `Linux` |
 
 ![nestest ROM](https://github.com/user-attachments/assets/561e0a44-538b-4ace-b298-97695a15b037)
 
